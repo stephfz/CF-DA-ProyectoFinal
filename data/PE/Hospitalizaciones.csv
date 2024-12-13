@@ -1,0 +1,121 @@
+2017,2018,2019,2020,2021,2022,Causa,GrupoEdad,Genero
+6014,6109,6 482,4 370,4 534,4 908,Ciertas enfermedades infecciosas y parasitarias,Menores de 15 años,Femenino
+1853,1598,1 837,1 596,1 643,1 734,Ciertas enfermedades infecciosas y parasitarias,De 15 a 24 años,Femenino
+3194,2 748,3 440,3 602,3 681,3 436,Ciertas enfermedades infecciosas y parasitarias,De 25 a 49 años,Femenino
+3879,3 573,4 039,3 505,3 620,3 014,Ciertas enfermedades infecciosas y parasitarias,50 y más años,Femenino
+25,48,26,61,3,1,Ciertas enfermedades infecciosas y parasitarias,Ignorado,Femenino
+906,1 278,1 046,986,998,1 052,Tumores (Neoplasias),Menores de 15 años,Femenino
+878,1 266,1 102,774,782,998,Tumores (Neoplasias),De 15 a 24 años,Femenino
+6 444,8 765,7 679,6 574,6 645,8 548,Tumores (Neoplasias),De 25 a 49 años,Femenino
+6 198,9 386,7 357,6 564,6 633,8 978,Tumores (Neoplasias),50 y más años,Femenino
+-,14,1,9,6,1,Tumores (Neoplasias),Ignorado,Femenino
+696,700,725,482,496,671,Enfermedades de la sangre y de los órganos hematopoyéticos,Menores de 15 años,Femenino
+400,395,425,386,407,449,Enfermedades de la sangre y de los órganos hematopoyéticos,De 15 a 24 años,Femenino
+675,763,913,749,798,947,Enfermedades de la sangre y de los órganos hematopoyéticos,De 25 a 49 años,Femenino
+857,869,913,719,769,927,Enfermedades de la sangre y de los órganos hematopoyéticos,50 y más años,Femenino
+5,4,1,4,1,-,Enfermedades de la sangre y de los órganos hematopoyéticos,Ignorado,Femenino
+749,819,855,551,587,631,"Enfermedades  endocrinas, nutricionales y metabólicas",Menores de 15 años,Femenino
+307,332,344,207,217,308,"Enfermedades  endocrinas, nutricionales y metabólicas",De 15 a 24 años,Femenino
+1 708,1 753,1 971,1 312,1 375,1 780,"Enfermedades  endocrinas, nutricionales y metabólicas",De 25 a 49 años,Femenino
+4 445,4 768,4 969,2 728,2 871,3 763,"Enfermedades  endocrinas, nutricionales y metabólicas",50 y más años,Femenino
+6,34,5,3,-,1,"Enfermedades  endocrinas, nutricionales y metabólicas",Ignorado,Femenino
+186,291,260,231,231,403,Trastornos mentales y del comportamiento,Menores de 15 años,Femenino
+647,770,791,541,550,1 036,Trastornos mentales y del comportamiento,De 15 a 24 años,Femenino
+893,1 097,1 072,596,607,978,Trastornos mentales y del comportamiento,De 25 a 49 años,Femenino
+349,469,510,275,290,369,Trastornos mentales y del comportamiento,50 y más años,Femenino
+5,1,11,-,-,-,Trastornos mentales y del comportamiento,Ignorado,Femenino
+1 209,1 290,1 464,898,934,1 261,Enfermedades del sistema nervioso ,Menores de 15 años,Femenino
+445,501,590,331,346,419,Enfermedades del sistema nervioso ,De 15 a 24 años,Femenino
+848,966,1 066,559,596,849,Enfermedades del sistema nervioso ,De 25 a 49 años,Femenino
+1 100,1 065,1 207,590,632,985,Enfermedades del sistema nervioso ,50 y más años,Femenino
+5,4,4,6,1,2,Enfermedades del sistema nervioso ,Ignorado,Femenino
+236,202,294,138,152,202,Enfermedades del ojo y de sus anexos,Menores de 15 años,Femenino
+72,58,60,45,47,105,Enfermedades del ojo y de sus anexos,De 15 a 24 años,Femenino
+214,211,283,150,151,313,Enfermedades del ojo y de sus anexos,De 25 a 49 años,Femenino
+442,476,543,204,204,459,Enfermedades del ojo y de sus anexos,50 y más años,Femenino
+-,8,2,7,-,-,Enfermedades del ojo y de sus anexos,Ignorado,Femenino
+188,176,235,95,98,102,Enfermedades del oído y de la apófisis mastoidea,Menores de 15 años,Femenino
+63,76,85,28,28,26,Enfermedades del oído y de la apófisis mastoidea,De 15 a 24 años,Femenino
+189,188,210,68,72,110,Enfermedades del oído y de la apófisis mastoidea,De 25 a 49 años,Femenino
+207,188,206,54,54,116,Enfermedades del oído y de la apófisis mastoidea,50 y más años,Femenino
+-,-,-,1,-,-,Enfermedades del oído y de la apófisis mastoidea,Ignorado,Femenino
+393,396,495,364,394,466,Enfermedades del sistema circulatorio,Menores de 15 años,Femenino
+239,251,310,182,191,255,Enfermedades del sistema circulatorio,De 15 a 24 años,Femenino
+1 392,1 611,1 601,1 175,1 239,1 646,Enfermedades del sistema circulatorio,De 25 a 49 años,Femenino
+7 590,8 402,8 890,5 086,5 307,7 450,Enfermedades del sistema circulatorio,50 y más años,Femenino
+4,10,6,19,3,1,Enfermedades del sistema circulatorio,Ignorado,Femenino
+12 192,14 741,14 527,4 655,4 861,10 766,Enfermedades del sistema respiratorio ,Menores de 15 años,Femenino
+755,862,824,655,678,764,Enfermedades del sistema respiratorio ,De 15 a 24 años,Femenino
+2 020,2 223,2 260,4 853,4 904,2 302,Enfermedades del sistema respiratorio ,De 25 a 49 años,Femenino
+9 201,10 260,10 681,13 371,13 552,9 925,Enfermedades del sistema respiratorio ,50 y más años,Femenino
+15,23,9,19,9,9,Enfermedades del sistema respiratorio ,Ignorado,Femenino
+4 796,5 231,5 915,4 299,4 451,5 279,Enfermedades del sistema digestivo ,Menores de 15 años,Femenino
+8 658,8 822,9 404,6 599,6 814,7 973,Enfermedades del sistema digestivo ,De 15 a 24 años,Femenino
+21 680,23 243,25 021,17 246,17 673,23 591,Enfermedades del sistema digestivo ,De 25 a 49 años,Femenino
+17 791,18 961,20 026,11 029,11 330,17 288,Enfermedades del sistema digestivo ,50 y más años,Femenino
+3,4,6,14,9,2,Enfermedades del sistema digestivo ,Ignorado,Femenino
+2 524,2 543,2 867,1 379,1 404,1 716,Enfermedades de la piel  y del tejido subcutáneo,Menores de 15 años,Femenino
+563,576,565,319,328,468,Enfermedades de la piel  y del tejido subcutáneo,De 15 a 24 años,Femenino
+1 360,1 471,1 546,942,955,1 203,Enfermedades de la piel  y del tejido subcutáneo,De 25 a 49 años,Femenino
+1 994,1 922,2 206,1 062,1 090,1 585,Enfermedades de la piel  y del tejido subcutáneo,50 y más años,Femenino
+3,2,2,2,-,-,Enfermedades de la piel  y del tejido subcutáneo,Ignorado,Femenino
+6 566,6 599,7 243,4 687,4 862,5 179,Ciertas enfermedades infecciosas y parasitarias,Menores de 15 años,Masculino
+1 719,1 466,1 712,1 419,1 454,1 501,Ciertas enfermedades infecciosas y parasitarias,De 15 a 24 años,Masculino
+4 060,3 629,4 023,4 317,4 433,3 531,Ciertas enfermedades infecciosas y parasitarias,De 25 a 49 años,Masculino
+3 615,3 502,3 833,4 080,4 195,2 978,Ciertas enfermedades infecciosas y parasitarias,50 y más años,Masculino
+27,42,24,69,1,2,Ciertas enfermedades infecciosas y parasitarias,Ignorado,Masculino
+1 002,1 551,1 128,1 153,1 172,1 172,Tumores (Neoplasias),Menores de 15 años,Masculino
+552,1 059,666,817,823,653,Tumores (Neoplasias),De 15 a 24 años,Masculino
+1 507,2 511,1 833,2 084,2 111,2 273,Tumores (Neoplasias),De 25 a 49 años,Masculino
+4 206,6 309,4 899,4 987,5 023,6 131,Tumores (Neoplasias),50 y más años,Masculino
+1,12,3,11,5,2,Tumores (Neoplasias),Ignorado,Masculino
+836,848,936,575,611,761,Enfermedades de la sangre y de los órganos hematopoyéticos,Menores de 15 años,Masculino
+200,182,165,138,147,179,Enfermedades de la sangre y de los órganos hematopoyéticos,De 15 a 24 años,Masculino
+375,387,454,324,363,375,Enfermedades de la sangre y de los órganos hematopoyéticos,De 25 a 49 años,Masculino
+708,833,844,595,636,772,Enfermedades de la sangre y de los órganos hematopoyéticos,50 y más años,Masculino
+-,6,3,7,-,-,Enfermedades de la sangre y de los órganos hematopoyéticos,Ignorado,Masculino
+840,804,872,582,621,751,"Enfermedades  endocrinas, nutricionales y metabólicas",Menores de 15 años,Masculino
+182,173,164,115,119,148,"Enfermedades  endocrinas, nutricionales y metabólicas",De 15 a 24 años,Masculino
+1 176,1 284,1 478,1 091,1 139,1 367,"Enfermedades  endocrinas, nutricionales y metabólicas",De 25 a 49 años,Masculino
+2 901,2 951,3 474,2 313,2 437,2 955,"Enfermedades  endocrinas, nutricionales y metabólicas",50 y más años,Masculino
+9,38,4,11,4,-,"Enfermedades  endocrinas, nutricionales y metabólicas",Ignorado,Masculino
+103,110,169,95,97,196,Trastornos mentales y del comportamiento,Menores de 15 años,Masculino
+642,697,667,358,361,635,Trastornos mentales y del comportamiento,De 15 a 24 años,Masculino
+918,1 075,1 079,565,572,1 092,Trastornos mentales y del comportamiento,De 25 a 49 años,Masculino
+400,527,534,298,319,407,Trastornos mentales y del comportamiento,50 y más años,Masculino
+8,-,9,1,-,-,Trastornos mentales y del comportamiento,Ignorado,Masculino
+1 496,1 558,1 692,1 076,1 110,1 374,Enfermedades del sistema nervioso ,Menores de 15 años,Masculino
+453,441,539,299,326,462,Enfermedades del sistema nervioso ,De 15 a 24 años,Masculino
+869,860,1 058,678,712,874,Enfermedades del sistema nervioso ,De 25 a 49 años,Masculino
+1 113,1 077,1 241,679,715,992,Enfermedades del sistema nervioso ,50 y más años,Masculino
+4,3,4,12,2,-,Enfermedades del sistema nervioso ,Ignorado,Masculino
+310,261,309,135,159,193,Enfermedades del ojo y de sus anexos,Menores de 15 años,Masculino
+62,45,56,27,27,37,Enfermedades del ojo y de sus anexos,De 15 a 24 años,Masculino
+136,94,170,74,76,102,Enfermedades del ojo y de sus anexos,De 25 a 49 años,Masculino
+282,334,294,197,199,335,Enfermedades del ojo y de sus anexos,50 y más años,Masculino
+1,4,3,14,-,-,Enfermedades del ojo y de sus anexos,Ignorado,Masculino
+227,237,272,112,115,132,Enfermedades del oído y de la apófisis mastoidea,Menores de 15 años,Masculino
+39,46,53,24,24,26,Enfermedades del oído y de la apófisis mastoidea,De 15 a 24 años,Masculino
+88,90,102,37,37,60,Enfermedades del oído y de la apófisis mastoidea,De 25 a 49 años,Masculino
+123,115,138,36,36,57,Enfermedades del oído y de la apófisis mastoidea,50 y más años,Masculino
+-,-,-,1,1,1,Enfermedades del oído y de la apófisis mastoidea,Ignorado,Masculino
+464,482,599,410,433,536,Enfermedades del sistema circulatorio,Menores de 15 años,Masculino
+279,315,319,202,216,295,Enfermedades del sistema circulatorio,De 15 a 24 años,Masculino
+1 284,1 472,1 505,1 108,1 165,1 449,Enfermedades del sistema circulatorio,De 25 a 49 años,Masculino
+7 623,8 482,8 973,5 564,5 750,7 711,Enfermedades del sistema circulatorio,50 y más años,Masculino
+6,12,1,14,3,2,Enfermedades del sistema circulatorio,Ignorado,Masculino
+14 778,17 862,17 751,5 847,6 096,13 063,Enfermedades del sistema respiratorio ,Menores de 15 años,Masculino
+866,979,1 060,809,829,892,Enfermedades del sistema respiratorio ,De 15 a 24 años,Masculino
+1 821,2 199,2 186,7 689,7 739,2 514,Enfermedades del sistema respiratorio ,De 25 a 49 años,Masculino
+7 394,8 694,9 145,17 445,17 618,9 501,Enfermedades del sistema respiratorio ,50 y más años,Masculino
+14,33,27,17,9,9,Enfermedades del sistema respiratorio ,Ignorado,Masculino
+6 269,6 926,7 610,5 810,5 996,6 903,Enfermedades del sistema digestivo ,Menores de 15 años,Masculino
+6 235,6 128,6 842,4 926,5 075,5 917,Enfermedades del sistema digestivo ,De 15 a 24 años,Masculino
+13 910,14 772,16 326,12 223,12 511,15 349,Enfermedades del sistema digestivo ,De 25 a 49 años,Masculino
+15 903,16 525,18 170,10 710,11 058,16 417,Enfermedades del sistema digestivo ,50 y más años,Masculino
+6,8,7,17,5,3,Enfermedades del sistema digestivo ,Ignorado,Masculino
+2 928,2 879,3 447,1 517,1 545,1 954,Enfermedades de la piel  y del tejido subcutáneo,Menores de 15 años,Masculino
+707,704,739,353,361,518,Enfermedades de la piel  y del tejido subcutáneo,De 15 a 24 años,Masculino
+1 479,1 579,1 785,1 048,1 067,1 398,Enfermedades de la piel  y del tejido subcutáneo,De 25 a 49 años,Masculino
+2 018,2 046,2 229,1 120,1 141,1 618,Enfermedades de la piel  y del tejido subcutáneo,50 y más años,Masculino
+4,7,2,2,1,1,Enfermedades de la piel  y del tejido subcutáneo,Ignorado,Masculino
