@@ -1,0 +1,55 @@
+2017,2018,2019,2020,2021,2022,2023,Causa,Genero
+10 572,12 255,13 496,14 418,16 073,14 727,12 632,Tumores [neoplasias] malignos (C00–C97),Femenino
+6 919,6 828,7 511,4 652,5 061,6 794,6 920,Influenza [gripe] y neumonía (J10–J18),Femenino
+1 609,1 875,1 428,1 821,1 621,2 214,1 496,Otras causas externas de traumatismos accidentales (W00–X59),Femenino
+3 363,1 911,1 968,1 846,2 216,1 945,1 695,Otras enfermedades bacterianas (A30–A49),Femenino
+2 840,2 936,3 452,7 884,9 820,7 403,5 402,Enfermedades isquémicas del corazón (I20–I25),Femenino
+3 113,3 678,3 885,3 436,4 317,4 089,2 775,Enfermedades cerebrovasculares (I60–I69),Femenino
+2 144,1 832,1 526,2 038,2 290,1 568,1 735,Otras formas de enfermedad del corazón (I30–I52),Femenino
+2 130,2 875,2 660,2 491,3 023,3 280,2 741,Otras enfermedades respiratorias que afectan principalmente al intersticio (J80–J84),Femenino
+1 690,1 876,1 663,1 688,2 131,2 087,1 632,Enfermedades del hígado (K70–K77),Femenino
+1 182,1 222,1 185,1 882,1 939,1 486,1 677,Insuficiencia renal (N17–N19),Femenino
+1 804,3 002,2 862,4 254,4 715,3 262,2 318,Diabetes mellitus (E10–14),Femenino
+1 222,1 204,1 272,2 354,2 095,1 938,1 248,Enfermedades hipertensivas (I10–I15),Femenino
+413,415,622,365,731,516,425,Accidentes de transporte (V01–V99),Femenino
+826,870,870,794,912,887,684,Enfermedades crónicas de las vías respiratorias inferiores (J40–J47),Femenino
+2 516,1 082,2 433,831,882,707,1 115,Otras enfermedades del sistema respiratorio (J95–J99),Femenino
+420,591,613,440,530,560,460,Tuberculosis (A15–A19),Femenino
+390,536,555,300,288,291,172,Trastornos respiratorios y cardiovasculares específicos del período perinatal (P20–P29),Femenino
+281,371,169,146,169,206,120,Infecciones específicas del período perinatal (P35–P39),Femenino
+317,366,372,601,655,-,-,Enfermedades del pulmón debidas a agentes externos (J60–J70),Femenino
+616,668,684,794,832,771,475,Desnutrición (E40–E46),Femenino
+162,267,376,259,296,248,184,Enfermedad por virus de la inmunodeficiencia humana [VIH] (B20–B24),Femenino
+217,276,270,427,531,435,264,"Enfermedades del esófago, del estómago y del duodeno (K20–K31)",Femenino
+303,314,301,362,459,331,257,Otras enfermedades del sistema digestivo (K90–K93),Femenino
+390,500,501,429,520,585,377,Otras enfermedades de los intestinos (K55–K63),Femenino
+444,548,464,421,562,569,396,"Trastornos de la vesícula biliar, de las vías biliares y del páncreas (K80–K87)",Femenino
+2 784,1 015,1 084,1 494,1 988,1 711,1 268,"Síntomas, Signos y Hallazgos Anormales Clínicos, no Clasificados en otra parte",Femenino
+8 525,11 437,9 156,37 839,46 966,15 752,7 458,Las demás Causas,Femenino
+"9,165","10,637","11,864",13 163,14 050,11 989,10 778,Tumores [neoplasias] malignos (C00–C97),Masculino
+7 119,6 756,7 544,5 387,6 109,6 903,6 842,Influenza [gripe] y neumonía (J10–J18),Masculino
+3 818,4 869,3 908,4 745,4 533,5 106,3 301,Otras causas externas de traumatismos accidentales (W00–X59),Masculino
+3 172,1 889,1 903,1 734,2 062,1 871,1 472,Otras enfermedades bacterianas (A30–A49),Masculino
+3 729,4 028,4 783,10 091,11 282,8 027,5 944,Enfermedades isquémicas del corazón (I20–I25),Masculino
+2 986,3 580,3 909,3 564,4 402,4 094,2 749,Enfermedades cerebrovasculares (I60–I69),Masculino
+2 240,1 832,1 568,1 933,2 202,1 668,1 551,Otras formas de enfermedad del corazón (I30–I52),Masculino
+2 371,3 084,2 849,2 859,3 635,3 577,2 993,Otras enfermedades respiratorias que afectan principalmente al intersticio (J80–J84),Masculino
+2 688,3 150,3 198,2 956,3 513,3 683,2 675,Enfermedades del hígado (K70–K77),Masculino
+1 311,1 440,1 455,2 005,2 074,1 571,1 764,Insuficiencia renal (N17–N19),Masculino
+1 670,2 745,2 686,4 646,4 565,3 117,2 275,Diabetes mellitus (E10–14),Masculino
+1 021,1 063,1 141,2 228,1 938,1 771,1 033,Enfermedades hipertensivas (I10–I15),Masculino
+1 005,1 217,1 869,1 236,2 473,1 589,1 337,Accidentes de transporte (V01–V99),Masculino
+844,949,858,1 012,1 037,844,727,Enfermedades crónicas de las vías respiratorias inferiores (J40–J47),Masculino
+2 788,1 187,2 628,926,952,742,1 137,Otras enfermedades del sistema respiratorio (J95–J99),Masculino
+927,1 239,1 209,887,1 136,1 212,1 105,Tuberculosis (A15–A19),Masculino
+500,734,735,398,378,423,252,Trastornos respiratorios y cardiovasculares específicos del período perinatal (P20–P29),Masculino
+363,428,233,265,211,251,137,Infecciones específicas del período perinatal (P35–P39),Masculino
+443,437,476,717,750,600,485,Enfermedades del pulmón debidas a agentes externos (J60–J70),Masculino
+518,576,535,610,658,614,338,Desnutrición (E40–E46),Masculino
+682,1 007,1 212,959,1 221,924,667,Enfermedad por virus de la inmunodeficiencia humana [VIH] (B20–B24),Masculino
+203,339,291,399,458,423,218,"Enfermedades del esófago, del estómago y del duodeno (K20–K31)",Masculino
+375,364,408,449,508,424,335,Otras enfermedades del sistema digestivo (K90–K93),Masculino
+510,600,584,617,644,650,448,Otras enfermedades de los intestinos (K55–K63),Masculino
+411,527,475,423,485,508,370,"Trastornos de la vesícula biliar, de las vías biliares y del páncreas (K80–K87)",Masculino
+3 409,1 345,1 389,1 821,2 066,1 564,1 310,"Síntomas, Signos y Hallazgos Anormales Clínicos, no Clasificados en otra parte",Masculino
+9 682,15 236,10 791,73 701,73 928,20 330,8 983,Las demás Causas,Masculino
